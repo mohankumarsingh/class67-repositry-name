@@ -1,0 +1,5 @@
+monkey 
+cat
+dog
+man
+humans
